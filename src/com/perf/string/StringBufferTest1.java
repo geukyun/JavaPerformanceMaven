@@ -1,4 +1,4 @@
-package src.com.perf.string;
+package com.perf.string;
 
 public class StringBufferTest1 {
 
@@ -16,3 +16,4 @@ public class StringBufferTest1 {
 	}
 
 }
+ 
